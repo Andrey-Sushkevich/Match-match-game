@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+.App {
+  font-family: "Roboto";
+  text-align: center;
+  box-sizing: content-box;
+}
+.GameOver{
+  margin-top:3vw;
+  display: flex;
+  justify-content: center;
+}
+
+.win{
+  display: flex;
+  flex-direction:column;
+}
+.restart{
+  width:8vw;
+  height:3vw;
+  margin:0 auto;
+  
+}
+

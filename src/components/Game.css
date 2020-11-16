@@ -1,0 +1,7 @@
+.Game{
+    background-color: steelblue;
+    border: 30px solid black;
+    display: flex;
+    flex-direction: column;
+  
+  }
